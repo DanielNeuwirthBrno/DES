@@ -1,0 +1,18 @@
+aktuální úkoly:
+---------------
+a] doplnit do postupu: zobrazení matic, které jsou použity pro výpočet koef.
+b] oprava: i komplexní kořeny mohou být násobné (viz př. y{4}+8y{2}+16y = 0)
+c] ošetřit u derivací výpočet numerických hodnot (při počátečních podmínkách)
+   pro tyto varianty kořenů: null and multiple, complex (with zero real-part)
+   and complex multiple (pro tuto variantu ještě není implementováno ani
+   správné sestavení kořenů - viz bod b])
+d] doplnit licenční ujednání + odkaz na autora ikon
+
+
+návrhy do budoucna:
+[01] na pravé straně rovnice sečíst všechny konstanty (pokud je jich více)
+     => bude funkční po implementaci parsingu pravé strany
+[02] řešení nehomogenních rovnic - partikulární řešení
+[03] výběr výpočtové metody zadané rovnice - MNK nebo MVK
+[04] výpočet kořenů rovnic vyšších řádů - bisection method
+[05] implementovat řešení rovnic 1.řádu

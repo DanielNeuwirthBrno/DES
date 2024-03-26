@@ -1,0 +1,55 @@
+Druhy diferenciálních rovnic:
+-----------------------------
+
+A. rovnice prvního řádu
+
+1) se separovanými proměnnými
+2) se separovatelnými proměnnými
+3) homogenní - řešené substitucí
+4) lineární - metoda variace konstanty
+
+B. rovnice vyšších řádů
+
+1) lineární - homogenní (pravá strana rovnice = 0)
+2) lineární - úplný tvar - metoda neurčitých koeficientů
+                         - metoda variace konstanty
+
+
+LODRn (homogenní) - postup výpočtu:
+-----------------------------------
+
+1) převedeme rovnici na charakteristický tvar
+   (nahradíme derivace koeficienty lambda s příslušnými exponenty)
+2) vypočteme koeficienty lambda
+3) sestavíme obecný tvar rovnice y = f(x)
+   (tvar f(x) určíme dle typu koeficientů - tři varianty)
+   a) λ1 ≠ λ2
+   b) λ1 = λ2
+   c) λ1,2 = a±bi
+
+
+proměnná, vzhledem ke které derivujeme:
+variable we’re differentiating with respect to (VWADWRT)
+
+
+ikony:
+zdroj   http://www.iconarchive.com
+autor   Oxygen team (http://www.oxygen-icons.org)
+licence GNU Lesser General Public License
+
+
+typy rovnic:
+
+a1. lineární (LINEAR)
+a2. nelineární (NONLINEAR)
+- neznámá y a její derivace y′ jsou vždy prvního stupně (mocniny)
+
+b1. homogenní (HOMOGENEOUS)
+b2. nehomogenní (NONHOMOGENEOUS)
+
+c1. obyčejné (ORDINARY)
+c2. parciální (PARTIAL)
+- v ODR se vyskytuje derivace neznámé funkce jedné nezávisle proměnné
+
+d1. s konstantními koeficienty (CONST_COEF)
+d2. s proměnnými koeficienty (VARIABLE_COEF)

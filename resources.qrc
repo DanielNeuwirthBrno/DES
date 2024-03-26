@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>qt-logo.png</file>
+        <file>fsi-logo.png</file>
+        <file>mercurial-logo.png</file>
+    </qresource>
+    <qresource prefix="/html">
+        <file>description.html</file>
+        <file>qt.html</file>
+        <file>mercurial.html</file>
+        <file>fsi.html</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/add.ico</file>
+        <file>icons/app.ico</file>
+        <file>icons/apply.ico</file>
+        <file>icons/cancel.ico</file>
+        <file>icons/clear.ico</file>
+        <file>icons/copyclbd.ico</file>
+        <file>icons/diff.ico</file>
+        <file>icons/ok.ico</file>
+        <file>icons/remove.ico</file>
+        <file>icons/steps.ico</file>
+        <file>icons/submit.ico</file>
+        <file>icons/matrix.ico</file>
+    </qresource>
+</RCC>
